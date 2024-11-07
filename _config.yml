@@ -323,3 +323,7 @@ defaults:
       comments: # true
       share: true
       related: true
+      show_date: true
+      enable_copy_code_button: true
+
+
