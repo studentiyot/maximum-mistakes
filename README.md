@@ -1,4 +1,4 @@
-# [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
+# [Minimal Mistakes Jekyll theme](https://studentiyot.github.io/maximum-mistakes/)
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE)
 [![Jekyll](https://img.shields.io/badge/jekyll-%3E%3D%203.7-blue.svg)](https://jekyllrb.com/)
@@ -11,7 +11,7 @@ Minimal Mistakes is a flexible two-column Jekyll theme, perfect for building per
 
 [![Minimal Mistakes live preview][2]][1]
 
-[1]: https://mmistakes.github.io/minimal-mistakes/
+[1]: https://studentiyot.github.io/maximum-mistakes/
 [2]: screenshot.png (live preview)
 
 ![layout examples](screenshot-layouts.png)
